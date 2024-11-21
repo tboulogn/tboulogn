@@ -1,16 +1,16 @@
-## Hi there 👋
+# Bonjour 👋, moi c'est [Thomas]
 
-<!--
-**tboulogn/tboulogn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 À propos de moi
+- 🎓 Étudiant à 42Perpignan.
+- 🌱 Actuellement, j'apprends le C.
+- 🔭 Je travaille sur Get_Next_Line.
+- 📫 Contactez-moi : **[tboulogn@student.42perignan.fr]**
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Outils
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Statistiques GitHub
+![Vos statistiques](https://github-readme-stats.vercel.app/api?username=VotreNom&show_icons=true&theme=radical)
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=VotreNom&layout=compact&theme=radical)
