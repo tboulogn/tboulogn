@@ -12,5 +12,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 📊 Statistiques GitHub
-![Vos statistiques](https://github-readme-stats.vercel.app/api?username=tboulogn&show_icons=true&theme=radical)
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=tboulogn&layout=compact&theme=radical)
+![Vos statistiques](https://github-readme-stats.vercel.app/api?username=tboulogn&theme=gotham&show_icons=true&hide_border=true&count_private=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=tboulogn&theme=gotham&hide_border=true)
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=tboulogn&theme=gotham&show_icons=true&hide_border=true&layout=compact)
