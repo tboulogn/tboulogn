@@ -3,7 +3,7 @@
 ## 🌟 À propos de moi
 - 🎓 Étudiant à **42Perpignan**.
 - 🌱 Actuellement, j'apprends le **C**.
-- 🔭 Je travaille sur **Philosophers et Minishell**.
+- 🔭 Je travaille sur **Minishell avec @reiyada**.
 - 📫 Contactez-moi : **tboulogn@student.42perignan.fr**
 
 ## 🛠️ Technologies & Outils
