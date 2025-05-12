@@ -3,7 +3,7 @@
 ## 🌟 À propos de moi
 - 🎓 Étudiant à **42Perpignan**.
 - 🌱 Actuellement, j'apprends le **C**.
-- 🔭 Je travaille sur **Minishell avec [@reiyada](https://github.com/reiyada)**.
+- 🔭 Je travaille sur **cube3d avec [@Taki-do](https://github.com/Taki-do)**.
 - 📫 Contactez-moi : **tboulogn@student.42perignan.fr**
 
 ## 🛠️ Technologies & Outils
