@@ -3,7 +3,7 @@
 ## 🌟 À propos de moi
 - 🎓 Étudiant à **42Perpignan**.
 - 🌱 Actuellement, j'apprends le **C++**.
-- 🔭 Je travaille sur **Piscine C++ (Module 07)**
+- 🔭 Je travaille sur **Piscine C++ (Module 09) // soon Inception**
 - 📫 Contactez-moi : **tboulogn@student.42perignan.fr**
 
 ## 🛠️ Technologies & Outils
