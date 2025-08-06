@@ -2,7 +2,7 @@
 
 ## 🌟 About Me
 - 🎓 Student at **42Perpignan**.
-- 🌱 Now learning **C++** and soon **Docker**.
+- 🌱 Now learning **Docker**.
 - 🔭 Now working on **Inception**
 - 📫 Contact Me: **tboulogn@student.42perignan.fr**
 
