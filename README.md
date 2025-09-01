@@ -2,8 +2,8 @@
 
 ## 🌟 About Me
 - 🎓 Student at **42Perpignan**.
-- 🌱 Now learning **Docker**.
-- 🔭 Now working on **Inception**
+- 🌱 Now learning **HTTP server bases, non-blocking network programming & configuration parsing in C++98**.
+- 🔭 Now working on **Webserv with [@reiyada](https://github.com/reiyada & [@kgiannou](https://github.com/k-giannou)**.
 - 📫 Contact Me: **tboulogn@student.42perignan.fr**
 
 ## 🛠️ Technologies & Tools
